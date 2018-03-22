@@ -35,14 +35,14 @@ In a terminal do:
 
 ```bash
 cd server-app
-yarn start
+npm i && start
 ```
 
 In another terminal
 
 ```bash
 cd client-app
-yarn start
+npm i && start
 ```
 
 ## Test it
